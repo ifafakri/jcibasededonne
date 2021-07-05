@@ -1,0 +1,1 @@
+{"_id":{"$oid":"6081b2bc331e4f2aeca6ba9b"},"email":"ifafakri@gmail.com","pass":"fakri123456789","recrutement":{"dateD":{"$date":"2021-06-04T00:00:00Z"},"dateF":{"$date":"2021-06-12T00:00:00Z"}},"__v":0}
